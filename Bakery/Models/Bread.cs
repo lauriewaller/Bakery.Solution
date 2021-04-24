@@ -10,7 +10,15 @@ namespace Bakery.Models
     }
     public int DetermineBreadPrice(int breadNumber)
     {
-      return breadNumber * Price;
+      if ((breadNumber % 3) == 0)
+      {
+        int salePrice = DetermineSalePrice(breadNumber);
+        return salePrice;
+      }
+      else
+      {
+        return breadNumber * Price;
+      }
     }
     public int DetermineSalePrice(int breadNumber)
     {

@@ -8,6 +8,10 @@ namespace Bakery.Models
     {
       Price = 5;
     }
+    public int DetermineBreadPrice(int breadNumber)
+    {
+      return 0;
+    }
   }
 }
 

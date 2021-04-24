@@ -15,7 +15,8 @@ namespace Bakery.Models
 
     public int DetermineSalePrice(int pastryNumber)
     {
-      return 0;
+      int threeDivisor = pastryNumber / 3;
+      return threeDivisor * 5;
     }    
   }
 }

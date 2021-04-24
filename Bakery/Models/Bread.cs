@@ -14,7 +14,8 @@ namespace Bakery.Models
     }
     public int DetermineSalePrice(int breadNumber)
     {
-      return 0;
+      int threeDivisor = breadNumber / 3;
+      return (breadNumber * Price) - (threeDivisor * Price);
     }
 
   }

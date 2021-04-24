@@ -10,7 +10,7 @@ namespace Bakery.Models
 
     public int DeterminePastryPrice(int pastryNumber)
     {
-      return 0;
+      return pastryNumber * Price;
     }  
   }
 }

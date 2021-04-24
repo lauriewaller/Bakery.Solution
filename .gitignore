@@ -1,0 +1,9 @@
+/Bakery/bin
+/Bakery/obj
+/Bakery.Tests/bin
+/Bakery.Tests/obj
+.vscode/
+obj
+bin
+/obj
+/bin

@@ -5,7 +5,7 @@ namespace Bakery.Tests
 {
   [TestClass]
   public class BreadTests
-  { 
+  {
     [TestMethod]
     public void BreadConstructor_CreatesInstanceofBread_Bread()
     {
@@ -48,9 +48,5 @@ namespace Bakery.Tests
       int result = newBread.DetermineSalePrice(3);
       Assert.AreEqual(price, result);
     }
-
-
-
-    
   }
 }

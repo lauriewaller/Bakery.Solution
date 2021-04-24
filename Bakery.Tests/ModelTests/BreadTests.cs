@@ -1,17 +1,21 @@
-// using Microsoft.VisualStudio.TestTools.UnitTesting;
-// using Bakery.Models;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Bakery.Models;
 
-// namespace Bread.Tests
-// {
-//   [TestClass]
-//   public class TriangleMethodTests
-//   { 
-//     [TestMethod]
-//   //   public void TriangleMethod_NotATriangle_String()
-//   //   {
-//   //     Assert.AreEqual("This is something else.", Types.TriangleMethod(2, 2, 8));
-//   //   }
-//   // }
-// }
+namespace Bakery.Tests
+{
+  [TestClass]
+  public class BreadTests
+  { 
+    [TestMethod]
+    public void BreadConstructor_CreatesInstanceofBread_Bread()
+    {
+      Bread newBread = new Bread();
+      Assert.AreEqual(typeof(Bread), newBread.GetType());
+    }
+  }
+}
 
+//create a Bread object 
+//add a Price property 
   
+//Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);

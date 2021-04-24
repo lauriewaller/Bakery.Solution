@@ -54,8 +54,3 @@ namespace Bakery.Tests
     
   }
 }
-
-//create a Bread object 
-//add a Price property 
-  
-//Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);

@@ -1,0 +1,15 @@
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csprojAssemblyReference.cache
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfoInputs.cache
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.AssemblyInfo.cs
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.csproj.CoreCompileInputs.cache
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/Bakery.deps.json
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/Bakery.runtimeconfig.json
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/Bakery.runtimeconfig.dev.json
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/Bakery.dll
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/ref/Bakery.dll
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/bin/Debug/net5.0/Bakery.pdb
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.dll
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/ref/Bakery.dll
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.pdb
+/Users/lauriewaller/Documents/EP/Bakery.Solution/Bakery/obj/Debug/net5.0/Bakery.genruntimeconfig.cache

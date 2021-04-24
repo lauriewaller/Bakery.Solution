@@ -11,6 +11,11 @@ namespace Bakery.Models
     public int DeterminePastryPrice(int pastryNumber)
     {
       return pastryNumber * Price;
-    }  
+    }
+
+    public int DetermineSalePrice(int pastryNumber)
+    {
+      return 0;
+    }    
   }
 }

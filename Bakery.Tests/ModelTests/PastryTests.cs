@@ -30,5 +30,14 @@ namespace Bakery.Tests
       int result = newPastry.DeterminePastryPrice(2);
       Assert.AreEqual(price, result);
     }
+
+    [TestMethod]
+    public void DetermineSalePrice_CalculatesSalePrice_Int()
+    {
+      int price = 5;
+      Pastry newPastry = new Pastry();
+      int result = newPastry.DetermineSalePrice(3);
+      Assert.AreEqual(price, result);
+    }
   }
 }

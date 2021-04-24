@@ -10,21 +10,22 @@ namespace Bakery.Models
 
     public int DeterminePastryPrice(int pastryNumber)
     {
-      if ((pastryNumber % 3) == 0)
+      if (pastryNumber <= 2)
       {
-        int salePrice = DetermineSalePrice(pastryNumber);
-        return salePrice;
+        return pastryNumber * Price;
       }
       else
       {
-        return pastryNumber * Price;
+        int salePrice = DetermineSalePrice(pastryNumber);
+        return salePrice;
       }
     }
 
     public int DetermineSalePrice(int pastryNumber)
     {
-      int threeDivisor = pastryNumber / 3;
-      return threeDivisor * 5;
+      int normalPrice = pastryNumber * Price;
+      int sale = pastryNumber / 3;
+      return normalPrice - sale;
     }    
   }
 }

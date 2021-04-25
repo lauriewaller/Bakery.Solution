@@ -29,6 +29,3 @@ namespace Bakery.Models
 
   }
 }
-
-// constructor test 
-// 

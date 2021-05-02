@@ -24,6 +24,7 @@ This application allows the user to purchase bread and pastry at a bakery. It of
   7. After you have completed the VS Code download, return to Terminal. After you've ensured you are still in the root directory of the folder you wish to open, type `code .` and press Enter. This will open the application files in VS Code for you.
   8. In Terminal, navigate to Bakery.Tests directory and type in `dotnet restore`.
   9. In Terminal, type in `dotnet run` to run the program and order bread and pastries. 
+  10. To run tests for the application, navigate to Bakery.Tests in Terminal and type in `dotnet test`.
 
 ## Known Bugs
 

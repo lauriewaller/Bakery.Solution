@@ -1,7 +1,7 @@
 using System;
 using Bakery.Models;
 
-namespace UserBakery
+namespace Bakery
 {
   public class BakeryProgram
   {

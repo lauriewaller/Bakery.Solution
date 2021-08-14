@@ -1,6 +1,6 @@
 # Bakery Application
 
-#### An application for a user to purchase bread and pastries
+#### A C# console application that allows a user to purchase bread and pastries
 
 #### By **Laurie Waller**
 
